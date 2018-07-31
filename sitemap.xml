@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/count/index.html</loc>
+    
+    <lastmod>2018-07-31T08:26:22.151Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2018-07-31T06:49:07.599Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-07-31T06:33:02.158Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2018-07-31T06:32:47.417Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/07/31/hello-world/</loc>
+    
+    <lastmod>2018-07-31T02:21:46.782Z</lastmod>
+    
+  </url>
+  
+</urlset>
